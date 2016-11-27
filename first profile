@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Liron</title>
+	</head>
+	<body>
+	<img src="http://brachot.net/images/category_images/232.png">
+	<p style="font-family:aharoni;font-size:25px"> Hi my name is <em>Liron</em> and I am 25 years old I live in Israel.</p>
+	<ul>
+	    <li style="color:red;font-family:aharoni"> interests: </li>
+	        <ol> 
+	           <strong> <li> music</li>
+	            <li> dancing</li>
+	            <li>fitness</li></strong>
+	        </ol>     
+	    
+	    <li style="color:blue;font-family:aharoni"> jobs: </li>
+	       <ul> 
+	           <strong><li> machine operator</li>
+	           <li> director of marketing content</li>
+	           <li> web developer</li></strong>
+	       </ul>
+	   
+	    <li style="color:green;font-family:aharoni"> hobbies:</li>
+	       <ol> 
+	         <strong> <li> sing</li>
+	          <li> fix my car</li>
+	          <li> watch movies</li>
+	          <li> computer games</li></strong>
+	       </ol>
+	   
+	</ul> 
+    
+	
+	
+	
+	
+	
+	</body>
+</html>
